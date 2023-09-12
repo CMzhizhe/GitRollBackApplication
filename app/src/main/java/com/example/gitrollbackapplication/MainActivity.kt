@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.i(TAG,"假如这里是大量的代码============ 开始")
 
-        Log.i(TAG,"我是gxx_dev上的代码，代码，代码")
+        Log.i(TAG,"我是代码，代码，代码")
 
 
         Log.i(TAG,"假如这里是大量的代码============ 结束")
